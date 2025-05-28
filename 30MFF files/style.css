@@ -75,3 +75,11 @@ p {
     transform: scale(1.5);
   }
 }
+
+video {
+  max-width: 100%;
+  height: auto;
+  margin-bottom: 2rem;
+  border: 2px solid #e63946;
+  border-radius: 12px;
+}
